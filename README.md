@@ -75,7 +75,7 @@ licenseTemplate 初始化参数
 ```yaml
 
 license:
-  subject: 星喆科技
+  subject: xx科技
   publicAlias: publicCert
   privateAlias: privateKey
   storePass: Admin@123$
